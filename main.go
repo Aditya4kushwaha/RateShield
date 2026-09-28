@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main(){
-	fmt.Println("Started the project !")
+func main() {
+    fmt.Println("RateShield starting...")
 }
